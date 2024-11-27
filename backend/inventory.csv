@@ -1,3 +1,5 @@
 Name,SKU,Category,Price,Quantity
 rice,22312,grain,200,3
 wheat,32432,grain,200,1
+milk,213213,dairy,80,3
+curd,13212,dairy,40,1
